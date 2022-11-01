@@ -1,0 +1,55 @@
+﻿Unit Name,Action,Action Start Date,Action End Date,MEF,MSE,Location
+INFANTRY BN X,Deployment X,6/1/23,12/30/23,I MEF,GCE,Centralia
+INFANTRY BN Y,Deployment Y,9/1/23,2/28/24,I MEF,GCE,Dakota
+INFANTRY BN Z,Deployment Z,12/30/23,5/30/24,I MEF,GCE,Chiraq
+CLB XX,Deployment XX,8/1/23,2/28/24,I MEF,LCE,Centralia
+CLB YY,Deployment YY,11/30/23,5/30/24,I MEF,LCE,Dakota
+CLB ZZ,Deployment ZZ,1/1/24,6/30/24,I MEF,LCE,Chiraq
+VMM XXX,Deployment XXX,2/1/24,7/30/24,I MEF,ACE,Centralia
+VMM YYY,Deployment YYY,7/1/24,12/31/24,I MEF,ACE,Dakota
+VMM ZZZ,Deployment ZZZ,9/1/24,2/28/25,I MEF,ACE,Chiraq
+INFANTRY BN X,Deployment Y,6/1/27,12/30/27,I MEF,GCE,Centralia
+INFANTRY BN Y,Deployment Z,6/1/26,11/30/26,I MEF,GCE,Dakota
+INFANTRY BN Z,Deployment X,9/30/27,2/28/28,I MEF,GCE,Chiraq
+CLB XX,Deployment YY,10/1/26,3/30/27,I MEF,LCE,Centralia
+CLB YY,Deployment ZZ,1/1/27,6/30/27,I MEF,LCE,Dakota
+CLB ZZ,Deployment XX,9/1/27,2/28/28,I MEF,LCE,Chiraq
+VMM XXX,Deployment YYY,6/1/27,12/30/27,I MEF,ACE,Centralia
+VMM YYY,Deployment ZZZ,10/1/26,3/30/27,I MEF,ACE,Dakota
+VMM ZZZ,Deployment XXX,5/30/27,11/30/27,I MEF,ACE,Chiraq
+INFANTRY BN X,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/24,2/28/25,I MEF,GCE,CONUS
+INFANTRY BN Y,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",5/1/25,4/30/26,I MEF,GCE,CONUS
+INFANTRY BN Z,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/26,2/28/27,I MEF,GCE,CONUS
+CLB XX,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",6/1/25,5/30/26,I MEF,LCE,CONUS
+CLB YY,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",7/1/24,6/30/25,I MEF,LCE,CONUS
+CLB ZZ,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",8/1/25,7/30/26,I MEF,LCE,CONUS
+VMM XXX,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",9/1/24,8/30/25,I MEF,ACE,CONUS
+VMM YYY,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/25,2/28/26,I MEF,ACE,CONUS
+VMM ZZZ,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",4/1/25,3/30/26,I MEF,ACE,CONUS
+INFANTRY BN X,Deployment X,6/1/23,12/30/23,III MEF,GCE,Centralia
+INFANTRY BN Y,Deployment Y,9/1/23,2/28/24,III MEF,GCE,Dakota
+INFANTRY BN Z,Deployment Z,12/30/23,5/30/24,III MEF,GCE,Chiraq
+CLB XX,Deployment XX,8/1/23,2/28/24,III MEF,LCE,Centralia
+CLB YY,Deployment YY,11/30/23,5/30/24,III MEF,LCE,Dakota
+CLB ZZ,Deployment ZZ,1/1/24,6/30/24,III MEF,LCE,Chiraq
+VMM XXX,Deployment XXX,2/1/24,7/30/24,III MEF,ACE,Centralia
+VMM YYY,Deployment YYY,7/1/24,12/31/24,III MEF,ACE,Dakota
+VMM ZZZ,Deployment ZZZ,9/1/24,2/28/25,III MEF,ACE,Chiraq
+INFANTRY BN X,Deployment Y,6/1/27,12/30/27,III MEF,GCE,Centralia
+INFANTRY BN Y,Deployment Z,6/1/26,11/30/26,III MEF,GCE,Dakota
+INFANTRY BN Z,Deployment X,9/30/27,2/28/28,III MEF,GCE,Chiraq
+CLB XX,Deployment YY,10/1/26,3/30/27,III MEF,LCE,Centralia
+CLB YY,Deployment ZZ,1/1/27,6/30/27,III MEF,LCE,Dakota
+CLB ZZ,Deployment XX,9/1/27,2/28/28,III MEF,LCE,Chiraq
+VMM XXX,Deployment YYY,6/1/27,12/30/27,III MEF,ACE,Centralia
+VMM YYY,Deployment ZZZ,10/1/26,3/30/27,III MEF,ACE,Dakota
+VMM ZZZ,Deployment XXX,5/30/27,11/30/27,III MEF,ACE,Chiraq
+INFANTRY BN X,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/24,2/28/25,III MEF,GCE,CONUS
+INFANTRY BN Y,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",5/1/25,4/30/26,III MEF,GCE,CONUS
+INFANTRY BN Z,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/26,2/28/27,III MEF,GCE,CONUS
+CLB XX,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",6/1/25,5/30/26,III MEF,LCE,CONUS
+CLB YY,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",7/1/24,6/30/25,III MEF,LCE,CONUS
+CLB ZZ,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",8/1/25,7/30/26,III MEF,LCE,CONUS
+VMM XXX,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",9/1/24,8/30/25,III MEF,ACE,CONUS
+VMM YYY,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",3/1/25,2/28/26,III MEF,ACE,CONUS
+VMM ZZZ,"FD30 Action (Activation, Deactivation, Transition, Reorg, Realign)",4/1/25,3/30/26,III MEF,ACE,CONUS
